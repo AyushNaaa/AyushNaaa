@@ -54,11 +54,4 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
-## 📊 GitHub Stats:
-
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=Ayush-Narayanaswamy&show_icons=true&theme=radical&hide_border=false" height="175" /></a> | <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayush-Narayanaswamy&theme=radical&hide_border=false" height="175" /></a> |
-| :---: | :---: |
-
----
-
-**Profile Views:** ![Profile views](https://gpvc.arturio.dev/Ayush-Narayanaswamy)
+Always free and open to connecting at my email: a6naraya@uwaterloo.ca
