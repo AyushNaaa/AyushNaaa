@@ -1,9 +1,9 @@
 # ## 👋 About Me:
 
-!**UW ENG:** Management Engineering student at the University of Waterloo
-!**Firmware Developer:** Currently developing firmware for embedded vehicle systems at **UW Formula Electric (UWFE)**
-!**Founder:** Leading **MECH**, a nonprofit organization that has raised over $3,000 for community healthcare
-!**Core Strengths:** Specialized in data analysis, financial modeling, and automation
+- UW ENG: Management Engineering student at the University of Waterloo
+- Firmware Developer: Currently developing firmware for embedded vehicle systems at UW Formula Electric (UWFE)
+- Founder: Leading MECH, a nonprofit organization that has raised over $3,000 for community healthcare
+- Core Strengths: Specialized in data analysis, financial modeling, and automation
 
 ---
 
