@@ -40,11 +40,14 @@
 ## 📊 GitHub Stats:
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Ayush-Narayanaswamy&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" alt="Ayush's GitHub stats" />
-<br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayush-Narayanaswamy&theme=dark&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=Ayush-Narayanaswamy&show_icons=true&theme=radical" alt="Ayush's GitHub stats" height="170" />
+  </a>
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayush-Narayanaswamy&theme=radical" alt="GitHub Streak" height="170" />
+  </a>
 </p>
 
 ---
 
-**Profile Views:** ![Views](https://gpvc.arturio.dev/Ayush-Narayanaswamy)
+**Profile Views:** ![Profile views](https://gpvc.arturio.dev/Ayush-Narayanaswamy)
