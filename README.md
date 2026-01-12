@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=13,42,67&height=200&section=header&text=Ayush%20Narayanaswamy&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Management%20Engineer%20%7C%20Firmware%20Developer%20%7C%20Founder&descSize=20&descAlignY=55" />
+  <img src="https://capsule-render.vercel.app/api
+    <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=13,42,67&height=200&section=header&text=Ayush%20Narayanaswamy&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Management%20Engineer%20at%20the%20University%20of%20Waterloo&descSize=20&descAlignY=55" />
 </div>
 
 ## 👨‍💻 About Me
