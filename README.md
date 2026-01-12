@@ -1,57 +1,117 @@
-# ## 👋 About Me:
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=13,42,67&height=200&section=header&text=Ayush%20Narayanaswamy&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Management%20Engineer%20%7C%20Firmware%20Developer%20%7C%20Founder&descSize=20&descAlignY=55" />
+</div>
 
-- UW ENG: Management Engineering student at the University of Waterloo
-- Firmware Developer: Currently developing firmware for embedded vehicle systems at UW Formula Electric (UWFE)
-- Founder: Leading MECH, a nonprofit organization that has raised over $3,000 for community healthcare
-- Core Strengths: Specialized in data analysis, financial modeling, and automation
+## 👨‍💻 About Me
 
----
-
-## 🌐 Socials:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush-narayanaswamy) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://v0-ayushna.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=icloud&logoColor=white)](mailto:a6naraya@uwaterloo.ca)
+▸ **Management Engineering** student @ University of Waterloo  
+▸ **Firmware Developer** for embedded vehicle systems at **UW Formula Electric (UWFE)** ▸ **Founder** of **MECH**, a nonprofit raising $3,000+ for community healthcare  
+▸ Specialized in **Data Analysis**, **Financial Modeling**, and **Industrial Automation** ▸ Passionate about the intersection of software efficiency and social impact  
 
 ---
 
-## 💻 Tech Stack, Frameworks and Skills:
+## 🚀 Current Projects & Focus
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Jira](https://img.shields.io/badge/jira-%230a45d7.svg?style=for-the-badge&logo=jira&logoColor=white)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=google-cloud&logoColor=white) 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
-![Confluence](https://img.shields.io/badge/confluence-%23172B4D.svg?style=for-the-badge&logo=confluence&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Developing
+
+▸ **UWFE Firmware** - Writing low-level code for high-performance electric vehicles.  
+▸ **MECH Growth** - Expanding nonprofit operations and healthcare outreach.  
+▸ **Automation Tools** - Streamlining data workflows using Python & VBA.
+
+</td>
+<td width="50%" valign="top">
+
+### Exploring
+
+▸ **Embedded Systems** - Real-time operating systems and hardware integration.  
+▸ **Advanced Analytics** - Deepening expertise in Power BI and Tableau. Building certifications; see my LinkedIn for more! 
+▸ **AI/LLMs** - Implementing RAG and prompt engineering for automation.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Languages & Logic
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![VBA](https://img.shields.io/badge/VBA-%23E10098.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Macros](https://img.shields.io/badge/Macros-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Agile](https://img.shields.io/badge/Agile-0052CC?style=for-the-badge&logo=atlassian&logoColor=white)
-![Kanban](https://img.shields.io/badge/Kanban-0052CC?style=for-the-badge&logo=trello&logoColor=white)
-![Scrum](https://img.shields.io/badge/Scrum-0052CC?style=for-the-badge&logo=scrumalliance&logoColor=white)
-![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
-![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=google-cloud&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+![SQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-Always free and open to connecting at my email: a6naraya@uwaterloo.ca
+### Data & Visualization
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![PowerBi](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
+
+### Engineering & Frameworks
+![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile-0052CC?style=for-the-badge&logo=atlassian&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-0052CC?style=for-the-badge&logo=scrumalliance&logoColor=white)
+
+### AI & Design
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe](https://img.shields.io/badge/Adobe_Creative_Cloud-DA1F26?style=for-the-badge&logo=adobe-creative-cloud&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=google-cloud&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ayush-narayanaswamy&theme=react&hide_border=true&custom_title=System%20Contributions" alt="Activity Graph" />
+</div>
+
+---
+
+## Let's Connect
+
+<div align="center">
+
+<h3>Open to opportunities in Firmware, Data Engineering, and Product Management</h3>
+
+<p>
+  <a href="mailto:a6naraya@uwaterloo.ca">
+    <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://linkedin.com/in/ayush-narayanaswamy">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://v0-ayushna.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
+
+<p>
+  <i>"Optimizing the present, engineering the future."</i>
+</p>
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=13,42,67&height=100&section=footer" />
+</div>
