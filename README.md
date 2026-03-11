@@ -1,7 +1,5 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111111,100:000000&height=140&section=header&text=Ayush%20Narayanaswamy&fontSize=48&fontColor=f2f2f2&fontAlignY=55&animation=fadeIn&desc=&font=serif"/>
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111111,100:000000&height=140&section=header&text=Ayush%20Narayanaswamy&fontSize=48&fontColor=f2f2f2&fontAlignY=55&animation=fadeIn&desc=&fontAlign=50&font=Playfair+Display&fontStyle=bold+italic"/>
 </div>
 
 
@@ -36,7 +34,9 @@
 <img src="https://img.shields.io/badge/numpy-111111?style=for-the-badge&logo=numpy&logoColor=white">
 
 <img src="https://img.shields.io/badge/Excel%20VBA-111111?style=for-the-badge&logo=microsoft-excel&logoColor=white">
-
+<img src="https://img.shields.io/badge/REST%20API-111111?style=for-the-badge&logo=fastapi&logoColor=white">
+<img src="https://img.shields.io/badge/Jira-111111?style=for-the-badge&logo=jira&logoColor=white">
+<img src="https://img.shields.io/badge/Slack-111111?style=for-the-badge&logo=slack&logoColor=white">
 </p>
 
 ### Connect
