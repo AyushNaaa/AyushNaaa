@@ -1,5 +1,7 @@
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111111,100:000000&height=140&section=header&text=Ayush%20Narayanaswamy&fontSize=48&fontColor=f2f2f2&fontAlignY=55&animation=fadeIn&desc=&fontAlign=50&font=Playfair+Display&fontStyle=bold+italic"/>
+<div align="left">
+  <a href="https://v0-ayushna.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio%20–%20v0--ayushna.vercel.app-000000?style=for-the-badge&logoColor=white"/>
+  </a>
 </div>
 
 
