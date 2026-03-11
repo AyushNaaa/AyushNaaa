@@ -32,6 +32,11 @@
 <img src="https://img.shields.io/badge/LLMs-111111?style=for-the-badge&logo=openai&logoColor=white">
 
 <img src="https://img.shields.io/badge/scikit--learn-111111?style=for-the-badge&logo=scikitlearn&logoColor=white">
+<img src="https://img.shields.io/badge/pandas-111111?style=for-the-badge&logo=pandas&logoColor=white">
+<img src="https://img.shields.io/badge/numpy-111111?style=for-the-badge&logo=numpy&logoColor=white">
+
+<img src="https://img.shields.io/badge/Excel%20VBA-111111?style=for-the-badge&logo=microsoft-excel&logoColor=white">
+
 </p>
 
 ### Connect
