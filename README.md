@@ -13,7 +13,7 @@
 
 • Built **Lens** — **TypeScript Chrome extension** analyzing article credibility, bias, and citation depth using rule-based scoring and NLP heuristics  
 
-• **Founder @ MECH** — registered under the **Government of British Columbia**
+• **Founder @ MECH** — registered officially under the **Government of British Columbia**
 
 ---
 ### Stack
