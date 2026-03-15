@@ -1,6 +1,6 @@
 <div align="left">
-  <a href="https://v0-ayushna.vercel.app/">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio%20–%20v0--ayushna.vercel.app-000000?style=for-the-badge&logoColor=white"/>
+  <a href="https://ayushnaaa.github.io/">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio%20–%20v0--ayushnaa.github.io-000000?style=for-the-badge&logoColor=white"/>
   </a>
 </div>
 
