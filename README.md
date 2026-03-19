@@ -7,7 +7,7 @@
 
 • **@University of Waterloo Engineering**
 
-• **Data & Product Intern @ [LocalStudent](https://localstudent.com)** — DMZ-backed Toronto startup 
+• **Data & Product Intern @ [LocalStudent](https://localstudent.com)** — DMZ-backed Toronto startup   
 
 • Built **Lucid** — biometric-adaptive study platform streaming physiological signals (heart rate, blink, breathing) via smartphone camera with **local LLM      inference for adaptive learning insights** *(HackCanada 2026 Finalist)*  
 
