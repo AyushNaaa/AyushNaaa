@@ -5,17 +5,25 @@
 </div>
 
 
-• **@University of Waterloo Engineering**
+• Data and AI **@University of Waterloo Engineering**
 
 • **Data & Product Intern @ [LocalStudent](https://localstudent.com)** — DMZ-backed Toronto startup    
 
 • Built **Lucid** — biometric-adaptive study platform streaming physiological signals (heart rate, blink, breathing) via smartphone camera with **local LLM      inference for adaptive learning insights** *(HackCanada 2026 Finalist)*  
 
-• Built **Lens** — **TypeScript Chrome extension** analyzing article credibility, bias, and citation depth using rule-based scoring and NLP heuristics  
+• Built **Lens** — **TypeScript extension** analyzing article credibility, bias, and citation depth using rule-based scoring and NLP heuristics  
 
 • **Founder @ MECH** — Organization registered officially under the **Government of British Columbia**
 
----
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=AyushNaaa&theme=tokyonight&hide_border=true&background=00000000&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" height="150" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AyushNaaa&color=58a6ff&style=flat-square&label=views" />
+</p>
+
 ### Stack
 
 <p align="left">
