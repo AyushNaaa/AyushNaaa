@@ -9,9 +9,9 @@
 
 • **Data & Product Intern @ [LocalStudent](https://localstudent.com)** — DMZ-backed Toronto startup    
 
-• Built **Lucid** — biometric-adaptive study platform streaming physiological signals (heart rate, blink, breathing) via smartphone camera with **local LLM      inference for adaptive learning insights** *(HackCanada 2026 Finalist)*  
+• Built **Lucid** — A biometric-adaptive study platform streaming physiological signals (heart rate, blink, breathing) via smartphone camera with **local LLM      inference for adaptive learning insights** *(HackCanada 2026 Finalist)*  
 
-• Built **Lens** — **TypeScript extension** analyzing article credibility, bias, and citation depth using rule-based scoring and NLP heuristics  
+• Built **Vytal** — A contactless vitals monitoring and triage platform using smartphone camera-based **rPPG** with **multi-agent LLM pipeline** for real-time     clinical summaries in natural language (ClaudeHacks Winner 2026)
 
 • **Founder @ MECH** — Organization I registered officially under the **Government of British Columbia**
 
