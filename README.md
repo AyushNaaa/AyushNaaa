@@ -11,9 +11,9 @@
 
 • Built **Lucid** — A biometric-adaptive study platform streaming physiological signals (heart rate, blink, breathing) via smartphone camera with **local LLM      inference for adaptive learning insights** *(HackCanada 2026 Finalist)*  
 
-• Built **Vytal** — A contactless vitals monitoring and triage platform using smartphone camera-based **rPPG** with **multi-agent LLM pipeline** for real-time     clinical summaries in natural language (ClaudeHacks Winner 2026)
+• Built **Vytal** — A contactless vitals monitoring and triage platform using smartphone camera-based **rPPG** with **multi-agent LLM pipeline** for real-time     clinical summaries in natural language (_ClaudeHacks Winner 2026_)
 
-• **Founder @ MECH** — Organization I registered officially under the **Government of British Columbia**
+• **Founder @ MECH** — Organization registered officially under the **Government of British Columbia**
 
 
 <p align="center">
