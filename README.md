@@ -5,7 +5,7 @@
 </div>
 
 
-• **@University of Waterloo Engineering** - Focused on AI, Product, and Data
+• **@University of Waterloo Engineering** — Focused on AI, Product, and Data
 
 • **Data & Product Intern @ [LocalStudent](https://localstudent.com)** — DMZ-backed Toronto startup    
 
