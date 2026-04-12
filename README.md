@@ -13,7 +13,7 @@
 
 • Built **Vytal** — A contactless vitals monitoring and triage platform using smartphone camera-based **rPPG** with **multi-agent LLM pipeline** for real-time     clinical summaries in natural language (_ClaudeHacks Winner 2026_)
 
-• **Founder @ MECH** — NGO registered officially under the **Government of British Columbia**, raised 3k
+• **Founder @ MECH** — NGO registered officially under the **Government of British Columbia**, 250+ people engaged, 3k raised, 50+ members managed
 
 
 <p align="center">
