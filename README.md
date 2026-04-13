@@ -26,7 +26,7 @@
   <img src="https://komarev.com/ghpvc/?username=AyushNaaa&color=58a6ff&style=flat-square&label=views" />
 </p>
 
-### Stack
+### Tech Stack
 
 <p align="left">
 
