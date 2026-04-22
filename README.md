@@ -7,13 +7,15 @@
 
 • **@University of Waterloo Engineering** — Focused on AI, Product, and Data
 
+• **AI Software Engineer** @ Corall
+
 • **Data & Product Intern @ [LocalStudent](https://localstudent.com)** — DMZ-backed startup based in Toronto   
 
 • Built **Lucid** — A biometric-adaptive study platform streaming physiological signals (heart rate, blink, breathing) via smartphone camera with **local LLM      inference for adaptive learning insights** *(HackCanada 2026 Finalist)*  
 
 • Built **Vytal** — A contactless vitals monitoring and triage platform using smartphone camera-based **rPPG** with **multi-agent LLM pipeline** for real-time     clinical summaries in natural language (_ClaudeHacks Winner 2026_)
 
-• **Founder @ MECH** — NGO registered officially under the **Government of British Columbia**, 250+ people engaged, 3k raised, 50+ members managed, 100k+ impressions across platforms
+• **Founder @ MECH** — NGO registered officially under the **Government of British Columbia**, 250+ people engaged, 3k raised, 50+ members managed, 100k+ impressions across all platforms
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=AyushNaaa&theme=tokyonight&hide_border=true&background=00000000&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" height="150"/>
