@@ -9,7 +9,7 @@
 
 • **AI Software Engineer** @ Corall
 
-• **Data & Product Intern @ [LocalStudent](https://localstudent.com)** — DMZ-backed startup based in Toronto   
+• **Data & Product Intern @ [LocalStudent](https://localstudent.com)** — DMZ-backed startup based in Toronto, ON   
 
 • Built **Lucid** — A biometric-adaptive study platform streaming physiological signals (heart rate, blink, breathing) via smartphone camera with **local LLM      inference for adaptive learning insights** *(HackCanada 2026 Finalist)*  
 
