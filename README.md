@@ -38,6 +38,7 @@
 <img src="https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=postgresql&logoColor=white">
 <img src="https://img.shields.io/badge/Jupyter-111111?style=for-the-badge&logo=jupyter&logoColor=white">
 <img src="https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=white">
 
 <img src="https://img.shields.io/badge/NLP-111111?style=for-the-badge&logo=spacy&logoColor=white">
 <img src="https://img.shields.io/badge/LLMs-111111?style=for-the-badge&logo=openai&logoColor=white">
