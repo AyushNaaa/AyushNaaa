@@ -9,7 +9,7 @@
 
 • **AI Software Engineer** @ Corall
 
-• **Data & Product Intern @ [LocalStudent](https://localstudent.com)** — DMZ-backed startup based in Toronto, ON
+• **Data & Product Intern @ [LocalStudent](https://localstudent.com)** — DMZ-backed startup based in Toronto
 
 • Founder of **Engram** - Your company memory, mapped in a semantic space. All inclusive with over 25 connectors, so you never waste time onboarding or researching old issues again
 
