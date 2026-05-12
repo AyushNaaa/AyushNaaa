@@ -7,7 +7,7 @@
 
 • **@University of Waterloo Engineering** — Focused on AI, Product, and Data
 
-• **AI Software Engineer** @ Corall
+• **AI Software Engineer @ [Corall](https://corall.co/)**
 
 • **Data & Product Intern @ [LocalStudent](https://localstudent.com)** — DMZ-backed startup based in Toronto
 
