@@ -11,7 +11,7 @@
 
 • **Data & Product Intern @ [LocalStudent](https://localstudent.com)** — DMZ-backed startup based in Toronto
 
-• Founder of **Engram** - Your company memory, mapped in a semantic space. All inclusive with over 25 connectors, so you never waste time onboarding or researching old data again. Live and deployed on Vercel, wiht a Supabase auth and db
+• Founder of **Engram** - Your company memory, mapped in a semantic space. All inclusive with over 25 connectors, so you never waste time onboarding or researching old data again. Live and deployed on Vercel, with a Supabase auth and db
 
 • Built **Lucid** — A biometric-adaptive study platform streaming physiological signals (heart rate, blink, breathing, etc.) via smartphone camera with **local LLM inference for adaptive learning insights** *(HackCanada 2026 Finalist)*  
 
