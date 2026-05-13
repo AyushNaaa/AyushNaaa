@@ -13,7 +13,7 @@
 
 • Founder of **Engram** - Your company memory, mapped in a semantic space. All inclusive with over 25 connectors, so you never waste time onboarding or researching old data again. Live and deployed on Vercel, with a Supabase auth and db
 
-• Built **Lucid** — A biometric-adaptive study platform streaming physiological signals (heart rate, blink, breathing, etc.) via smartphone camera with **local LLM inference for adaptive learning insights** *(HackCanada 2026 Finalist)*  
+• Built **Lucid** — A biometric-adaptive study platform streaming physiological signals (heart rate, blink, breathing, etc.) via smartphone camera w/ **local LLM inference for adaptive learning insights** *(HackCanada 2026 Finalist)*  
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=AyushNaaa&theme=tokyonight&hide_border=true&background=00000000&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" height="150"/>
